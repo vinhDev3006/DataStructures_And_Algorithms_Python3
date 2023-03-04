@@ -7,6 +7,6 @@ The repository includes implementations for several popular data structures, inc
 
 In addition to data structures, the repository also includes implementations for popular algorithms such as sorting, searching, and graph traversal. These algorithms are essential for solving many computational problems and are widely used in fields such as data science, machine learning, and artificial intelligence.
 
-All of the implementations in the repository are open source and can be used freely by anyone. The code is not very well-documented though, if needed you can submit your commit to the respository.
+All of the implementations in the repository are open source and can be used freely by anyone.
 
 Overall, this repository provides a valuable resource for anyone interested in learning about data structures and algorithms in Python. It provides a collection of well-written, well-documented, and well-tested implementations that can be used to solve a wide range of computational problems. 
