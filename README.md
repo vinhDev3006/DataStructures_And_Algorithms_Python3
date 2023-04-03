@@ -1,4 +1,4 @@
-# DataStructure_Python
+# DataStructure_And_AlgorithmsPython
 This repository contains a collection of Python implementations for some of the most popular data structures and algorithms. Each implementation is designed to provide a robust, efficient, and easy-to-use solution for a specific problem.
 
 Data structures are fundamental components of computer science that allow developers to organize and manipulate data in various ways. These structures provide an efficient way to store, access, and modify data, and they form the basis for many algorithms used in computer science.
